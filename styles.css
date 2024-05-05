@@ -1,42 +1,5 @@
-div{
-    border: 1px solid black;
-    margin: 0;
-    padding: 0;
-}
-
 .container-fluid{
-    width: 1204px;
-    height: 410px;
+	display: flex;
+	flex-direction: row;
 }
-
-
-
-.col-sm-1{
-img{
-    width: 100px;
-    height: 100px;
-    overflow: hidden;
-}
-
-.col-sm-2{
-    width: 200px;
-    height: 100px;
-    overflow: hidden;
-}
-
-.col-sm-4{
-    width: 400px;
-    height: 100px;
-    object-fit: contain;
-}
-
-.col-sm-12{
-    width: 1200px;
-    height: 100px;
-    overflow: hidden;
-}
-
-img{
-    width: 100%;
-    height: 102%;
-}
+/* Your CSS Code here. */
