@@ -1,27 +1,19 @@
+img {
+	width: 100%;
+}
 
-/* Your CSS Code here. */
-/* Your CSS Code here. */
-.row-1{
-	display: grid;
-	grid-template-columns: repeat(12, 1fr);
-    
-   
+.row-1 {
+	display: flex;
 }
-.row-2{
-	display: grid;
-	grid-template-columns: repeat(6, 2fr);
-    
-    
+
+.row-2 {
+	display: flex;	
 }
-.row-3{
-	display: grid;
-	grid-template-columns: repeat(3, 4fr);
-    
-    
+
+.row-3 {
+	display: flex;	
 }
-.row-4{
-	display: grid;
-	grid-template-columns: repeat(1, 12fr);
-    
-    
+
+.row-4 {
+	display: flex;	
 }
